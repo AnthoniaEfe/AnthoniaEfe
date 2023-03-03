@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, Go**
 
-- 👯 I’m looking to collaborate on **interesting topics**
+- 👯 I’m looking to collaborate on **interesting projects**
 
 - 💬 Ask me about **react, redux, bootstrap, sass**
 

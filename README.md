@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, redux, bootstrap, sass**
 
-- ⚡ Fun fact **I am a sudoku master**
+- ⚡ Fun fact **I'm pretty decent at sudoku**
 
 
 </p>

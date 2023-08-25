@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthonia</h1>
-<h3 align="center">A mechatronics engineer with interest in frontend development</h3>
+<h3 align="center">A frontend developer with a degree in mechatronics engineering</h3>
 
 - 🌱 I’m currently learning **NodeJS and PostgreSQL**
 

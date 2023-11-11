@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anthonia</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **NodeJS and PostgreSQL**
+- 🌱 I’m currently learning **new technologies**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 💬 Ask me about **React and Javascript**
 
-- ⚡ Fun fact **I'm pretty decent at sudoku**
+- ⚡ Fun fact **I'm a sudoku master**
 
 
 </p>
